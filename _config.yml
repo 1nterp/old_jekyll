@@ -8,17 +8,17 @@ highlighter:         pygments
 permalink:           pretty
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+title:            interp.ink
+tagline:          'Interpreting between people, and grab more.'
+description:      'Database Management System Developer in C/C++, sometimes uses Java/Python/C#/Javascript. Interesting in front-end framework, as well as internal system architecture and team management.'
+url:              http://interp.ink
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
+  name:           'InterP'
+  url:            http://interp.ink
   gravatar:       https://en.gravatar.com/yourname
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+  photo:          https://ko.gravatar.com/userimage/55729251/9412ef61b7ae20adcf2b9e38e49c8042.jpg?size=350
+  introduction:   'Database Management System Developer in C/C++, sometimes uses Java/Python/C#/Javascript. Interesting in front-end framework, as well as internal system architecture and team management.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
